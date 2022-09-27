@@ -10,6 +10,7 @@ public class Manipulieren {
 		Scanner meinScanner = new Scanner(System.in);
 		int eingabeZahl;
 		int zaehler = 0;
+		//HAllo
 		
 		//Aufgabe 1. Zahlen hinzufügen
 		for(int i = 0; i < 20 ; i++) {
